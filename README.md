@@ -1,2 +1,2 @@
 # JMaster
-# Bai tap thuc hanh so 1
+Bai tap thuc hanh so 1
