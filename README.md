@@ -1,2 +1,3 @@
 # JMaster
-Bai tap thuc hanh so 1
+#Java Core
+Bai tap
